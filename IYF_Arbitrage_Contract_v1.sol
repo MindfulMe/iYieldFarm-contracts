@@ -1,7 +1,3 @@
-/**
- *Submitted for verification at Etherscan.io on 2020-01-23
-*/
-
 // IYF Arbitrage Tools Alpha Contract
 
 pragma experimental ABIEncoderV2;
