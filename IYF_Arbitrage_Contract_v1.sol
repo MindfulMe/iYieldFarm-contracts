@@ -1,4 +1,9 @@
-// IYF Arbitrage Tools Alpha Contract
+/**
+ *Submitted for verification at Etherscan.io on 2020-10-09
+*/
+
+//IYF.finance Arbitrage Contract v1.0
+
 
 pragma experimental ABIEncoderV2;
 
@@ -282,7 +287,7 @@ library SafeMath {
 }
 
 // Oracle Feed Contract
-contract IYFArbitrage {
+contract ArbitrageIYF {
     using SafeMath
     for uint256;
 
@@ -855,5 +860,5 @@ contract IYFArbitrage {
 
     
     
-    //end contract
+    //End
 }
