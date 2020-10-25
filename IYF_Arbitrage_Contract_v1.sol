@@ -856,5 +856,5 @@ contract ArbitrageIYF {
 
     
     
-    //End
+    //End of Solidity Contract
 }
